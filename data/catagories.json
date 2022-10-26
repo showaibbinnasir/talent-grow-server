@@ -51,7 +51,7 @@
         "thumbnail" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1971px-Unreal_Engine_Logo.svg.png",
         "instructor" : "Showaib bin Nasir",
         "instructorImage" : "https://mir-s3-cdn-cf.behance.net/user/276/d095ad1047825299.611aa914488d0.jpg",
-        
+        "courseOutlet" : ["Creating Project", "Learning Environment", "Import Model", "Animate Model", "Adding Audio", "Basic Simple Programing For Game", "Apply Effect", "Export Project"]
     }
 
 ]
